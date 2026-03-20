@@ -25,6 +25,18 @@ title: Master RADIOAMICA
 
 </div>
 
-#### 
+ 
+
+
+Titolo
+
+##### Tabella
+
+| Titolo | RADIOmica/rAdiogenoMIca Cooperativa basata su intelligenza Artificiale |
+|--------|------------------------------------------------------------------------|
+| Livello | 2° |
+| Modalità | Ibrida (*Tutte le lezioni On-Line e la Discussione Tesi in Presenza*) |
+
+
 
 
